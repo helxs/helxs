@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helxs
-- 👀 I’m interested in computer
+- 👀 I’m interested in computers
 - 🌱 I’m currently building
 - 💞️ I’m looking to collaborate on software building
 - 📫 How to reach me: github, obviously
